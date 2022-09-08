@@ -5,3 +5,4 @@ This was part of the AstroPi 2022 competition run by the esa found [here](https:
 
 The project was designed to capture and use satellite imagery to locate desertified land suitable to be reclaimed.
 
+
